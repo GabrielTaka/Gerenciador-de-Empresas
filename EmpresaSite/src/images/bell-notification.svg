@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E84B4B;}
+	.st1{opacity:0.14;fill:url(#SVGID_1_);}
+	.st2{fill:none;stroke:#E84B4B;stroke-width:20;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M508,967.3c53.4,0,96.8-43.3,96.8-96.8H411.2C411.2,923.9,454.6,967.3,508,967.3z"/>
+<path class="st0" d="M833.8,740.8c-29.2-31.4-83.9-78.6-83.9-233.4c0-117.5-82.4-211.6-193.5-234.7v-31.5
+	c0-26.7-21.7-48.4-48.4-48.4s-48.4,21.7-48.4,48.4v31.5c-111.1,23.1-193.5,117.2-193.5,234.7c0,154.7-54.7,202-83.9,233.4
+	c-9.1,9.8-13.1,21.4-13,32.8c0.2,24.8,19.6,48.4,48.6,48.4h580.6c28.9,0,48.4-23.6,48.6-48.4C846.9,762.2,842.9,750.5,833.8,740.8z"
+	/>
+<radialGradient id="SVGID_1_" cx="508" cy="507.3906" r="326.9667" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.3149" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.329" style="stop-color:#FCF4F7"/>
+	<stop  offset="0.4076" style="stop-color:#EFBCCB"/>
+	<stop  offset="0.4887" style="stop-color:#E48AA4"/>
+	<stop  offset="0.5703" style="stop-color:#DA5F83"/>
+	<stop  offset="0.6527" style="stop-color:#D23D68"/>
+	<stop  offset="0.736" style="stop-color:#CC2253"/>
+	<stop  offset="0.8207" style="stop-color:#C70F45"/>
+	<stop  offset="0.9075" style="stop-color:#C5043C"/>
+	<stop  offset="1" style="stop-color:#C40039"/>
+</radialGradient>
+<path class="st1" d="M833.8,740.8c-29.2-31.4-83.9-78.6-83.9-233.4c0-117.5-82.4-211.6-193.5-234.7v-31.5
+	c0-26.7-21.7-48.4-48.4-48.4s-48.4,21.7-48.4,48.4v31.5c-111.1,23.1-193.5,117.2-193.5,234.7c0,154.7-54.7,202-83.9,233.4
+	c-9.1,9.8-13.1,21.4-13,32.8c0.2,24.8,19.6,48.4,48.6,48.4h580.6c28.9,0,48.4-23.6,48.6-48.4C846.9,762.2,842.9,750.5,833.8,740.8z"
+	/>
+<g>
+	<path class="st2" d="M638.4,201.7c0,0,258.2,82,171.9,357.4"/>
+	<path class="st2" d="M663,155c0,0,294.6,93.6,196.1,407.7"/>
+	<path class="st2" d="M682,108.8c0,0,340.4,108.1,226.5,471.1"/>
+</g>
+<g>
+	<path class="st2" d="M385.5,201.7c0,0-258.2,82-171.9,357.4"/>
+	<path class="st2" d="M360.9,155c0,0-294.6,93.6-196.1,407.7"/>
+	<path class="st2" d="M341.8,108.8c0,0-340.4,108.1-226.5,471.1"/>
+</g>
+</svg>
