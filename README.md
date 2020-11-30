@@ -7,7 +7,7 @@ Instituição: FATEC SJC
 
 Repositório contém, 3 projetos:
 
-1-) E-mail marketing para comunicação com o cliente.
-2-) Front-end feito em vue.js para cadastro de empresas e exibição.
-3-) Backend feito em JAVA para cadastro de empresas. 
+<strong>1-)</strong> E-mail marketing para comunicação com o cliente. <br>
+<strong>2-)</strong> Front-end feito em vue.js para cadastro de empresas e exibição.<br>
+<strong>3-)</strong> Backend feito em JAVA para cadastro de empresas. <br>
 
